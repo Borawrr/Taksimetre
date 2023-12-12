@@ -24,5 +24,6 @@ public class Taksimetre {
 
             System.out.println("Ödemeniz Gereken Tutar : " + (tutar + acilis));
         }
+        scanner.close();
     }
 }
